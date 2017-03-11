@@ -1,3 +1,226 @@
+<!DOCTYPE html>
+<head>
+<title> STRONA JOANNY KOWALSKIEJ </title>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
+<META name="Author" content="JOANNA KOWALSKA">
+<meta name="STRONA DO NAUKI="//SERWIS ĆWICZNIOWY//"
+</head>
+<body bgcolor="SILVER">
+<p align=center><FONT COLOR="#FFED7A" size="5"><strike>Kowalska</strike></FONT></p><br>
+<p align=right><FONT COLOR="green" size="2"><u>Joanna</u></FONT></p><br>
+<p align=left><FONT COLOR="#oo33FF" size="10"><b>20-200, Warszawa,</b><br> <i>ul.Kosciuszki,5,5</i></FONT></p><br>
+<p align=center><FONT COLOR="#33FF00" size="1">Frank Sinatra</FONT></p><br>
+<p align=right><FONT COLOR="#CC0000" size="8">Czerwone Gitary</FONT></p><br>
+<p align=left><FONT COLOR="grey" size="3">15 maja 1990</FONT></p><br>
+<p align=center>H<sub>2</sub>SO<sub>4</sub>+X<sup>2</sup></p><br>
+<h1 align="center"> DLA KLASY I</h1>
+<HR SIZE=20 WIDTH=50% ALIGN=CENTER COLOR=GREEN>
+<h3 align="right">MODLITWY </h3>
+<FIELDSET>
+<legend>PO POLSKU</legend>
+
+ZNAK KRZYŻA<br>
+W imię Ojca i Syna i Ducha Świętego. Amen.<br>
+<br>
+DO ANIOŁA STRÓŻA<br>
+Aniele Boży, stróżu mój,<br>
+ Ty zawsze przy mnie stój.<br>
+ Rano, wieczór, we dnie, w nocy<br>
+ Bądź mi zawsze ku pomocy,<br>
+ Strzeż duszy, ciała mego,<br>
+ zaprowadź mnie do żywota wiecznego. Amen.<br>
+<br>
+
+<br>
+POZDROWIENIA CHRZEŚCIJAŃSKIE:<br>
+<br>
+Niech będzie pochwalony Jezus Chrystus!<br>
+- Na wieki wieków. Amen.<br>
+<br>
+Szczęść Boże!<br>
+- Szczęść Boże!<br>
+<br>
+
+
+<br>
+MODLITWA PAŃSKA<br>
+Ojcze nasz, któryś jest w niebie, święć się imię Twoje,<br>
+ przyjdź królestwo Twoje, bądź wola Twoja, jako w niebie tak i na ziemi.<br>
+ Chleba naszego powszedniego daj nam dzisiaj.<br>
+ I odpuść nam nasze winy, jako i my odpuszczamy naszym winowajcom.<br>
+ I nie wódź nas na pokuszenie, ale nas zbaw od złego. Amen.<br>
+<br>
+POZDROWIENIE ANIELSKIE<br>
+Zdrowaś Maryjo, łaski pełna, Pan z Tobą,<br>
+ błogosławionaś Ty między niewiastami i błogosławiony owoc żywota Twojego Jezus.<br>
+ Święta Maryjo, Matko Boża, módl się za nami grzesznymi teraz i w godzinę śmierci naszej. Amen.<br>
+<br>
+UWIELBIENIE TRÓJCY ŚWIĘTEJ<br>
+Chwała Ojcu i Synowi i Duchowi Świętemu,<br>
+ jak była na początku, teraz i zawsze, i na wieki wieków. Amen.<br>
+<br>
+UWIELBIENIE PRZENAJŚWIĘTSZEGO SAKRAMENTU:<br>
+Niechaj będzie pochwalony Przenajświętszy Sakrament.<br>
+Teraz i zawsze i na wieki wieków. Amen.<br>
+<br>
+
+
+
+AKTY CNÓT BOSKICH<br>
+<br>
+Akt wiary<br>
+Wierzę w Ciebie, Boże żywy,<br>
+W Trójcy jedyny, prawdziwy,<br>
+Wierzę coś objawił, Boże,<br>
+Twe słowo mylić nie może<br>
+<br>
+Akt nadziei<br>
+Ufam Tobie, boś Ty wierny,<br>
+Wszechmocny i miłosierny,<br>
+Dasz mi grzechów odpuszczenie,<br>
+Łaskę i wieczne zbawienie.<br>
+<br>
+Akt miłości<br>
+Boże, choć Cię nie pojmuję,<br>
+Jednak nad wszystko miłuję,<br>
+Nad wszystko, co jest stworzone,<br>
+Boś Ty Dobro nieskończone.<br>
+<br>
+Akt żalu<br>
+Ach, żałuję za me złości,<br>
+Jedynie dla Twej miłości,<br>
+Bądź miłościw mnie grzesznemu,<br>
+Dla Ciebie odpuszczam bliźniemu.<br>
+<br>
+
+
+
+
+</FIELDSET>
+<HR SIZE=10 WIDTH=50% ALIGN=LEFT COLOR=BLUE>
+<h3 align="center">PREYERS IN ENGLISH</h3>
+<FIELDSET>
+<legend>BASIC PRAYERS(SHORT)</legend>
+
+<br>
+Sign of the Cross<br>
+In the name of the Father, and of the Son, and of the Holy Spirit. Amen<br>
+
+<br>
+THE OUR FATHER<br>
+
+
+Our Father, Who art in heaven,<br>
+Hallowed be Thy Name.<br>
+Thy Kingdom come.<br>
+Thy Will be done, on earth as it is in Heaven. <br>
+
+Give us this day our daily bread.<br>
+And forgive us our trespasses,<br>
+as we forgive those who trespass against us.<br>
+And lead us not into temptation,<br>
+but deliver us from evil. Amen.<br>
+
+<br>
+ 
+THE HAIL MARY<br>
+
+Hail Mary,
+Full of Grace,
+The Lord is with thee.<br>
+Blessed art thou among women,
+and blessed is the fruit of thy womb, Jesus.<br>
+Holy Mary, Mother of God, pray for us sinners,<br>
+ now and at the hour of our death. Amen.<br>
+
+<br>
+DOXOLOGY<br>
+Glory be to the Father, and to the Son, and to the Holy Spirit.<br> 
+As it was in the beginning, is now and ever shall be, world without end. Amen<br>
+<br>
+
+
+</FIELDSET>
+<HR SIZE=1 WIDTH=50% ALIGN=RIGHT COLOR=red>
+<h3align="LEFT">MODLITWA DO ANIOŁA STRÓŻA </h3>
+<FIELDSET>
+
+<legend>W KILKU JĘZYKACH</legend>
+ANIELE BOŻY, STRÓŻU MÓJ, <br>
+TY ZAWSZE PRZY MNIE STÓJ.<br>
+ RANO, WIECZÓR, WE DNIE, W NOCY<br>
+ BĄDŹ MI ZAWSZE DO POMOCY. <br>
+STRZEŻ DUSZY, CIAŁA MEGO<br>
+ I ZAPROWADŹ MNIE DO ŻYWOTA WIECZNEGO. AMEN.<br>
+<br>
+GUARDIAN ANGEL PRAYER<br>
+ ANGEL OF GOD, MY GUARDIAN DEAR<br>
+ TO WHOM GOD'S LOVE COMMITS ME HERE<br>
+ EVER THIS DAY (NIGHT) BE AT MY SIDE<br>
+ TO LIGHT AND GUARD, TO RULE AND GUIDE. AMEN.<br>
+<br>
+PO NIEM.
+ HEILIGER SCHUTZENGEL MEIN,<br>
+ LAß MICH DIR EMPFOHLEN SEIN!<br>
+ STEH JEDER NOT BEI MIR, HALTE MICH VON SÜNDEN FREI,<br>
+ FÜHRE MICH AN DEINER HNAD IN DAS HIMMLISCHE VATERLAND!<br>
+<br>
+PO WŁOSKU
+ANGELO DI DIO CHE SEI IL MIO CUSTODE,<br>
+ILLUMINA,CUSTODISCI,REGGI E GOVERNA ME<br>
+ CHE TI FUI AFFIDATO DALLA PIETA' CELESTE.AMEN<br>
+
+</FIELDSET>
+
+<br>
+<br>
+<h3 align="right">wyliczenie 1</h3>
+<UL TYPE=disc>
+   <LI> igłowe,  
+   <LI> laserowe
+   <LI> atramentowe
+   <LI> termiczne
+</UL>
+<br>
+<br>
+<br>
+<h3 align="right">wyliczenie 2</h3>
+<UL TYPE=circle>
+<LI> Tonery zamienne fabrycznie nowe
+<LI> Tonery zamienne remanufakturowane
+<LI> Tonery zamienne remanufakturowane
+<LI> Regeneracja
+</UL>
+<br>
+<br>
+<br>
+<h3 align="right">wyliczenie 3</h3>
+<UL TYPE=square>
+<LI> Lexmark drukarka laserowa E220
+<LI> Samsung Drukarka laserowa ML-1710
+<LI> Drukarka laserowa HP LaserJet 1300
+<LI> drukarka laserowa Brother Brother HL-2130 
+</UL>
+<OL TYPE=A START=1>
+<LI> 1
+<LI> 2
+<LI> 3
+<LI> 4
+</OL>
+<OL TYPE=A START=3>
+<LI> To
+<LI> jest
+<LI> lista
+<LI> numerowana
+</OL>
+
+</body>
+</html>
+<!- TEKSTY ZEBRAŁA JOANNA KOWALSKA->
+
+
+
+
 # Dla dzieci
 https://github.com/daga8888/z_cba_dla_dzieci/blob/master/jezu_ufam_tobie.jpg?raw=true
 
