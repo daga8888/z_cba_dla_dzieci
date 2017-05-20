@@ -19,14 +19,7 @@ body
 		padding: 15px;
 	} 
      
-#nav
-	{
-		float: left;
-		background-color: lightgray;
-		width: 120px;
-		min-height: 620px;
-		padding: 10px;
-	}
+
 	
 	#content
 	{
